@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render login 1`] = `
+<div
+  className="box-layout"
+>
+  <div
+    className="box-layout__box"
+  >
+    <h1
+      className="layout__title"
+    >
+      React Boilerplate
+    </h1>
+    <p>
+      Tag Line For App !!!
+    </p>
+    <button
+      className="button"
+      onClick={[Function]}
+    >
+      Login With Google
+    </button>
+  </div>
+</div>
+`;
